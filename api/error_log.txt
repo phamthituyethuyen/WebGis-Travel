@@ -1,0 +1,130 @@
+2024-06-23 14:14:13 - Lỗi giải mã JSON: Syntax error
+2024-06-23 14:17:01 - Phản hồi từ API Nominatim: <html>
+<head>
+<title>Access blocked</title>
+</head>
+<body>
+<h1>Access blocked</h1>
+
+<p>You have been blocked because you have violated the
+<a href="https://operations.osmfoundation.org/policies/nominatim/">usage policy</a>
+of OSM's Nominatim geocoding service. Please be aware that OSM's resources are
+limited and shared between many users. The usage policy is there to ensure that
+the service remains usable for everybody.</p>
+
+<p>Please review the terms and make sure that your
+software adheres to the terms. You should in particular verify that you have set a
+<b>custom HTTP referrer or HTTP user agent</b> that identifies your application, and
+that you are not overusing the service with massive bulk requests.</p>
+
+<p>If you feel that this block is unjustified or remains after you have adopted
+your usage, you may contact the Nominatim system administrator at
+nominatim@openstreetmap.org to have this block lifted.</p>
+</body>
+</head>
+
+2024-06-23 14:17:01 - Lỗi giải mã JSON: Syntax error
+2024-06-23 14:17:13 - Phản hồi từ API Nominatim: <html>
+<head>
+<title>Access blocked</title>
+</head>
+<body>
+<h1>Access blocked</h1>
+
+<p>You have been blocked because you have violated the
+<a href="https://operations.osmfoundation.org/policies/nominatim/">usage policy</a>
+of OSM's Nominatim geocoding service. Please be aware that OSM's resources are
+limited and shared between many users. The usage policy is there to ensure that
+the service remains usable for everybody.</p>
+
+<p>Please review the terms and make sure that your
+software adheres to the terms. You should in particular verify that you have set a
+<b>custom HTTP referrer or HTTP user agent</b> that identifies your application, and
+that you are not overusing the service with massive bulk requests.</p>
+
+<p>If you feel that this block is unjustified or remains after you have adopted
+your usage, you may contact the Nominatim system administrator at
+nominatim@openstreetmap.org to have this block lifted.</p>
+</body>
+</head>
+
+2024-06-23 14:17:13 - Lỗi giải mã JSON: Syntax error
+2024-06-23 14:20:43 - Phản hồi từ API Nominatim: <html>
+<head>
+<title>Access blocked</title>
+</head>
+<body>
+<h1>Access blocked</h1>
+
+<p>You have been blocked because you have violated the
+<a href="https://operations.osmfoundation.org/policies/nominatim/">usage policy</a>
+of OSM's Nominatim geocoding service. Please be aware that OSM's resources are
+limited and shared between many users. The usage policy is there to ensure that
+the service remains usable for everybody.</p>
+
+<p>Please review the terms and make sure that your
+software adheres to the terms. You should in particular verify that you have set a
+<b>custom HTTP referrer or HTTP user agent</b> that identifies your application, and
+that you are not overusing the service with massive bulk requests.</p>
+
+<p>If you feel that this block is unjustified or remains after you have adopted
+your usage, you may contact the Nominatim system administrator at
+nominatim@openstreetmap.org to have this block lifted.</p>
+</body>
+</head>
+
+2024-06-23 14:20:43 - Lỗi giải mã JSON: Syntax error
+2024-06-23 14:26:58 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-23 14:27:25 - Phản hồi từ API Nominatim: [{"place_id":386820445,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":7086391,"lat":"11.9402416","lon":"108.4375758","class":"boundary","type":"administrative","place_rank":12,"importance":0.4769684397317153,"addresstype":"city","name":"Thành phố Đà Lạt","display_name":"Thành phố Đà Lạt, Tỉnh Lâm Đồng, Việt Nam","boundingbox":["11.8079789","12.0085517","108.3152058","108.5946125"]}]
+2024-06-23 14:27:46 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-23 14:27:47 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-23 17:53:31 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 04:58:39 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 04:58:39 - Lỗi truy vấn cơ sở dữ liệu: SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "tourisms" does not exist
+LINE 1: SELECT tourism, ST_AsGeoJSON(geom) as geom FROM tourisms WHE...
+                                                        ^
+2024-06-24 04:59:16 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 04:59:16 - Lỗi truy vấn cơ sở dữ liệu: SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "tourisms" does not exist
+LINE 1: SELECT tourism, ST_AsGeoJSON(geom) as geom FROM tourisms WHE...
+                                                        ^
+2024-06-24 05:08:37 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 05:08:37 - Thực hiện truy vấn với bounding box: minLng=106.3567007, minLat=10.1399458, maxLng=107.0276712, maxLat=11.1603083
+2024-06-24 05:12:57 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 05:12:57 - Thực hiện truy vấn với bounding box: minLng=106.3567007, minLat=10.1399458, maxLng=107.0276712, maxLat=11.1603083
+2024-06-24 05:31:10 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 05:33:08 - Phản hồi từ API Nominatim: [{"place_id":386820445,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":7086391,"lat":"11.9402416","lon":"108.4375758","class":"boundary","type":"administrative","place_rank":12,"importance":0.4769684397317153,"addresstype":"city","name":"Thành phố Đà Lạt","display_name":"Thành phố Đà Lạt, Tỉnh Lâm Đồng, Việt Nam","boundingbox":["11.8079789","12.0085517","108.3152058","108.5946125"]}]
+2024-06-24 05:33:18 - Phản hồi từ API Nominatim: [{"place_id":386820445,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":7086391,"lat":"11.9402416","lon":"108.4375758","class":"boundary","type":"administrative","place_rank":12,"importance":0.4769684397317153,"addresstype":"city","name":"Thành phố Đà Lạt","display_name":"Thành phố Đà Lạt, Tỉnh Lâm Đồng, Việt Nam","boundingbox":["11.8079789","12.0085517","108.3152058","108.5946125"]}]
+2024-06-24 05:44:03 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 05:48:40 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 05:48:55 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 06:03:08 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 06:03:10 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 06:08:32 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 06:12:38 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 06:19:41 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 06:35:10 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 07:03:45 - Phản hồi từ API Nominatim: []
+2024-06-24 07:03:45 - Không tìm thấy địa danh
+2024-06-24 07:03:56 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 07:08:06 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 07:50:18 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 07:52:47 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 07:52:51 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 07:52:51 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:05:29 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:06:28 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:09:07 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:19:43 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:20:06 - Phản hồi từ API Nominatim: [{"place_id":386820445,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":7086391,"lat":"11.9402416","lon":"108.4375758","class":"boundary","type":"administrative","place_rank":12,"importance":0.4769684397317153,"addresstype":"city","name":"Thành phố Đà Lạt","display_name":"Thành phố Đà Lạt, Tỉnh Lâm Đồng, Việt Nam","boundingbox":["11.8079789","12.0085517","108.3152058","108.5946125"]}]
+2024-06-24 08:25:01 - Phản hồi từ API Nominatim: [{"place_id":386820445,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":7086391,"lat":"11.9402416","lon":"108.4375758","class":"boundary","type":"administrative","place_rank":12,"importance":0.4769684397317153,"addresstype":"city","name":"Thành phố Đà Lạt","display_name":"Thành phố Đà Lạt, Tỉnh Lâm Đồng, Việt Nam","boundingbox":["11.8079789","12.0085517","108.3152058","108.5946125"]}]
+2024-06-24 08:25:11 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:25:32 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:26:53 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:30:00 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 08:32:37 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 14:53:21 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 15:40:34 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 15:44:49 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 16:11:03 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 16:11:04 - Phản hồi từ API Nominatim: [{"place_id":254646551,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]
+2024-06-24 18:56:28 - Phản hồi từ API Nominatim: [{"place_id":225017512,"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright","osm_type":"relation","osm_id":1973756,"lat":"10.7763897","lon":"106.7011391","class":"boundary","type":"administrative","place_rank":8,"importance":0.5703210416556213,"addresstype":"city","name":"Thành phố Hồ Chí Minh","display_name":"Thành phố Hồ Chí Minh, Việt Nam","boundingbox":["10.1399458","11.1603083","106.3567007","107.0276712"]}]

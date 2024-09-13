@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #ddd;
+    background-image: url('images/halong.jpg'); /* Thay đổi đường dẫn đến hình nền */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Để hình nền không cuộn cùng trang */
+}
+
+.container {
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+    grid-template-columns: repeat(2, 1fr); /* 2 cột cho dòng đầu và dòng thứ hai */
+    grid-template-rows: auto auto auto; /* 3 dòng */
+    justify-items: center; /* Căn giữa các phần tử trong mỗi dòng */
+    margin-top: 50px; /* Khoảng cách từ navbar */
+    margin-bottom: 50px; /* Khoảng cách đến lề dưới */
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    background-color: #f0cab6;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 600px; /* Tăng chiều rộng cho các card */
+    height: 200px; /* Chiều cao cố định cho các card */
+    box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước tổng của card */
+}
+.container > :nth-child(5) {
+    grid-column: 1 / -1; /* Căn giữa dòng cuối cùng */
+    justify-self: center; /* Căn giữa phần tử cuối cùng trong dòng */
+}
+.icon {
+    flex: 0 0 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+.icon img {
+    width: 130px; /* Điều chỉnh kích thước icon nếu cần */
+    height: 130px;
+}
+.text {
+    flex: 1;
+}
+.text h2 {
+    margin: 0;
+    color: #362020;
+}
+.text p {
+    margin: 10px 0;
+    color: #182810;
+}
+.text a {
+    color: #4124d1;
+    text-decoration: none;
+}
+.text a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,220 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/*style for index*/
+.content {
+    background: url('images/halong.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+    color: white; /* Đặt màu chữ để dễ đọc trên nền */
+    text-shadow: 1px 1px 2px black; 
+    /* Đặt bóng cho chữ để dễ đọc hơn */
+
+}
+h1 {
+    font-size: 3em; /* Tăng kích thước chữ */
+    font-family: 'Arial', sans-serif; /* Thêm kiểu chữ đẹp hơn */
+  }
+
+#highlight {
+    color: #FF6347; /* Màu chữ cho TRAVELWEBGIS */
+    font-weight: bold; /* Tô đậm chữ */
+    font-family: 'cursive';  /* Màu chữ cho TRAVELWEBGIS */
+}
+p {
+    font-size: 1.6em;
+    font-family: 'Arial', sans-serif;
+    color: rgb(8, 78, 12);
+}
+.content .hello {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin:0 20%;
+}
+
+/* Định dạng cho liên kết */
+.btn {
+    padding: 20px 20px;
+    font-size: 1.2em;
+    color: rgb(150, 238, 107);
+    background-color: rgba(0, 0, 0, 0.3); /* Nền trong suốt */
+    border: 2px solid rgb(146, 73, 73); /* Đường viền trắng */
+    border-radius: 5px;
+    cursor: pointer;
+    text-shadow: none;
+    box-shadow: 2px 2px 5px rgba(188, 222, 153, 0.3);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    text-decoration: none; /* Xóa gạch chân của liên kết */
+    display: inline-block; /* Đặt để liên kết có thể có padding */
+    margin-top: 0px; /* Tạo khoảng cách phía trên nút */
+}
+
+.btn:hover {
+    background-color: rgba(0, 0, 0, 0.5); /* Đổi màu nền khi di chuột qua */
+    border-color: rgb(35, 129, 170); /* Đổi màu đường viền khi di chuột qua */
+}
+
+
+/*END INDEX/
+/*STYLE FOR CSS*/
+/* CSS dành riêng cho body của trang liên hệ */
+.contact-page-body {
+    
+    background: url('images/halong.jpg');
+    margin: 0;
+    padding: 0;
+}
+
+
+/* CSS dành cho nội dung chính */
+.contact-page-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 50px); /* Trừ đi chiều cao của navbar */
+    padding: 20px;
+}
+
+.contact-info {
+    flex: 1;
+    background-color: antiquewhite;
+    border-radius:5px ;
+    margin-top: -150px ;
+    max-width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 20px;
+    border-right: 5px solid #f3abab;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+.contact-info h2 {
+    
+    font-size: 36px; /* Tăng kích thước chữ */
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    font-size: 18px; /* Tăng kích thước chữ */
+    margin: 10px 0;
+    line-height: 1.5;
+}
+
+.contact-form {
+    margin-top: -100px;
+    margin-left: -50;
+    font-family: 'Dancing Script', cursive;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Căn giữa theo chiều ngang */
+    padding-left: 100px;
+    box-sizing: border-box;
+}
+
+
+.contact-form input, 
+.contact-form textarea {
+    font-family: 'Dancing Script', cursive;
+    width: 80%; /* Giảm chiều ngang */
+    text-align: center;
+    padding: 15px; /* Tăng chiều cao */
+    margin-bottom: 20px; /* Thêm khoảng cách giữa các trường input */
+    border: 3px solid #ccc;
+    border-radius: 3px;
+    font-size: 18px; /* Tăng kích thước chữ */
+}
+
+.contact-form button {
+    align-items: center; 
+    width: 50%; /* Giảm chiều ngang */
+    padding: 15px; /* Tăng chiều cao */
+    background-color: #007bff;
+    border:0 3 0 3px;
+    border-radius: 3px;
+    color: white;
+    font-size: 18px; /* Tăng kích thước chữ */
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background-color: #0056b3;
+}
+/*end contact*/
+/* CSS FOR MAP*/
+.container {
+    display: flex;
+    flex: 1;
+    height: 100%;
+}
+
+.search-container {
+    width: 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto; /* Cho phép cuộn dọc và ngang nếu nội dung quá dài */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Căn giữa theo chiều dọc */
+    align-items: center; /* Căn giữa theo chiều ngang */
+    background-color: #98c7ed;
+    background: url('images/halong.jpg') 
+}
+
+.search-container h1 {
+    font-size: 2.5em; /* Điều chỉnh kích thước chữ của tiêu đề */
+    margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
+}
+
+.search-container input[type="text"] {
+    font-size: 1em; /* Điều chỉnh kích thước chữ trong ô tìm kiếm */
+    padding: 10px;
+    width: 80%; /* Điều chỉnh chiều rộng của ô tìm kiếm */
+    margin-bottom: 30px; /* Khoảng cách dưới ô tìm kiếm */
+    box-sizing: border-box;
+}
+
+.search-container button {
+    font-size: 1 em; /* Điều chỉnh kích thước chữ trong nút */
+    padding: 10px 20px;
+    margin-bottom: 20px; /* Khoảng cách dưới nút tìm kiếm */
+}
+
+.tourism {
+    text-align: center; /* Căn giữa văn bản */
+    margin: 10px 0;
+    font-size: 1.5em; /* Điều chỉnh kích thước chữ của các phần tử danh sách */
+}
+
+#load-more-btn {
+    align-self: flex-end; /* Đưa nút xuống sát mép dưới */
+    background-color: lightblue; /* Màu xanh nhạt */
+    margin-top: auto; /* Đẩy nút xuống dưới cùng */
+    font-size: 1 em; /* Điều chỉnh kích thước chữ cho nút "Tải thêm" */
+}
+
+#map {
+    width: 66.67%;
+    height: 100%; /* Đảm bảo bản đồ chiếm toàn bộ chiều cao */
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+/*END CSS FOR MAP*/
